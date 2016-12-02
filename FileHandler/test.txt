@@ -1,0 +1,13 @@
+﻿add a new file
+    '''fileIndex, fileType, fileId, fileMd5,fileRemotePath'''
+     http://127.0.0.1:8000/core/newfile/
+    {"fileIndex":"test", "fileType":"txt","fileId":"123456", "fileMd5":"1234567890","fileRemotePath":"test.txt"}
+
+add file content of specific file
+    '''fileIndex, fileType, fileId, fileMd5'''
+    http://127.0.0.1:8000/core/shortcut/
+    {"fileIndex":"test", "fileType":"txt","fileId":"123456", "fileMd5":"1234567890"}
+
+baijialiang123456
+
+add a new file '''fileIndex, fileType, fileId, fileMd5,fileRemotePath''' http://127.0.0.1:8000/core/newfile/ {"fileIndex":"test", "fileType":"txt","fileId":"123456", "fileMd5":"1234567890","fileRemotePath":"test.txt"} add file content of specific file '''fileIndex, fileType, fileId, fileMd5''' http://127.0.0.1:8000/core/shortcut/ {"fileIndex":"test", "fileType":"txt","fileId":"123456", "fileMd5":"1234567890"} 吃 货 鸭 血粉 粉丝汤 回味 鸭 血粉 粉丝 夫子庙 025-52211360 石 记 鸭 得 堡 抄 纸 巷 配 锅巴 盐水鸭 点心 赤豆 元宵 红豆 豆沙 煮 小 元宵 合 莲子 藕粉 勾芡 糖 芋 苗 新鲜 芋 苗 蒸熟 剥皮 加 桂花 糖浆 后 熬 制 小吃 牛肉 锅贴 回民 小吃 蒋 有 记 锅贴 贡院 西街 店 莲 湖 糕 团 店 皮 肚 面 一定 定要 要吃 鸡汁 汤包 皮薄馅多 南京 夫子庙 狮子 桥 这两个 地方 美食 聚集 尹 年金 金汤 汤包 鸡鸣 汤包 店 一定 定要 要去 新街口 三元 巷 五福 街 斜 巷 甘 家 大院 南京大学 附近 青岛 路 夫子庙 永和 园 酒楼 烫 干 丝 酥 烧饼 回味 鸭 血粉 粉丝 夫子庙 025-52211360 鸭 血粉 粉丝汤 贡院 西街 蒋 有 记 锅贴 牛肉 锅贴 莲 湖 糕 团 店 千 层 糕 卷 心 糕 如意 糕 青 米糕 马蹄 糕 豆沙 糕 贡院 西街 24 号 齐 芳 阁 鸭 油酥 烧饼 麻油 素 干 丝 素什锦 什锦菜 包 贡院 西街 12 号 王府 大街 芳 婆 糕 团 店 赤豆 元宵 43,306,312 近 石鼓路 莫 愁 路 总店 尹 氏 鸡汁 汤包 26,30,47,48,70,95 丹凤 街 站 陆 家 巷 项 记 面 馆 皮 肚 面 狮子 桥 南京大 大排档 苏 亦 铭 蟹黄 包 百年 尹 氏 汤包 店 狮子 楼 京 苏 大菜 当家菜 狮子头 shopping 工艺品 云锦 雨花石 江宁 金箔 制品 天鹅绒 仿古 牙雕 木雕 云锦 江东门 南京 云锦 研究所 雨花石 普通 1 园 硬币 玛瑙 雨花石 ￥ 20 商业中心 新街口 夜游 秦淮 夫子庙 大成殿 上船 白天 50/ 人 夜晚 80/ 人

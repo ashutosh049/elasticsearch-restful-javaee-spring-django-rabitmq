@@ -1,0 +1,19 @@
+输入参数 fileContent
+{"configParam":{"todoAction":"4353"},"filePojo":{"fileContent":"shopping"},"userPojo":{"userId":"liwenbo@iscas.ac.cn","userLevel":"6"}}
+
+http://localhost:8080/securitysearch/webresources/file/lib?CommonParam={%22configParam%22:{%22todoAction%22:%224353%22},%22filePojo%22:{%22fileContent%22:%22shopping%22},%22userPojo%22:{%22userId%22:%22liwenbo@iscas.ac.cn%22,%22userLevel%22:%226%22}}
+
+
+输入参数 fileKeyword
+{"configParam":{"todoAction":"4354"},"filePojo":{"fileKeyword":"shopping"},"userPojo":{"userId":"liwenbo@iscas.ac.cn","userLevel":"6"}}
+
+http://localhost:8080/securitysearch/webresources/file/lib?CommonParam={%22configParam%22:{%22todoAction%22:%224354%22},%22filePojo%22:{%22fileKeyword%22:%22shopping%22},%22userPojo%22:{%22userId%22:%22liwenbo@iscas.ac.cn%22,%22userLevel%22:%226%22}}
+
+
+插入参数
+
+{"fileID":"1","fileName":"吃货.txt","filePath":"D:\\tmp\\testFileType\\吃货.txt","fileOwner":"liwenbo@iscas.ac.cn",
+	     	"fileUser":["zhengxinmin@iscas.ac.cn","gaoshuyue@iscas.ac.cn"],"opDate":"2015-04-11T22:09:00.000Z",
+	     	"fileLevel":1,"fileLib":"lires","fileTag":["aa","bb","cc"],"encrypt":false,"libType":"workRecordLib","ext1":"Libraries/学术资源/k8s/"}
+
+{"configParam":{"hitsNum":"10","indexFrom":"0","todoAction":"0"},"filePojo":{"encrypt":"false","fileContent":"Enter file content","fileID":"100000","fileKeyword":"Enter keyword","fileLevel":"0","fileLib":"Enter File Lib","fileName":"吃货.txt","fileOwner":"Enter file Owner","filePath":"Enter File Path","D:\\tmp\\testFileType\\吃货.txt","fileUser":"Enter avalible user","libType":"Enter Lib Type"},"userPojo":{"userId":"Enter User ID","userLevel":"0","userName":"Enter User Name"}}
